@@ -13,4 +13,4 @@ Most of the existing multi-turn conversation datasets are extracted from the chi
 
 ## Download the data
 Please download the dataset using following link
-1. [SeConD.zip](https://drive.google.com/file/d/1Za2av8jFydFhkAWBiCiZenIR6unrlSDF/view)
+[SeConD (148k dialogues).zip](https://drive.google.com/file/d/1Za2av8jFydFhkAWBiCiZenIR6unrlSDF/view)
