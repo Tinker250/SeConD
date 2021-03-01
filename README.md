@@ -10,5 +10,4 @@ Most of the existing multi-turn conversation datasets are extracted from the chi
 ![Statistics](https://github.com/Tinker250/SeConD/blob/master/Figures/Statistics.png "Statistics")
 
 ## Download the data
-Please download the dataset using following link
-[SeConD (148k dialogues).zip](https://drive.google.com/file/d/1Za2av8jFydFhkAWBiCiZenIR6unrlSDF/view)
+The download link will be available after the paper get published
