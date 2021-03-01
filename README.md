@@ -1,8 +1,6 @@
 # SeConD
 
 ## Paper information
-Rongjunchen Zhang, Tingmin Wu, Sheng Wen, Surya Nepal, Cecile Paris, Yang Xiang
-
 SeConD: A Rich Text Security Conversation Dataset for Multi-Turn Response Selection
 
 ## Abstract
